@@ -55,7 +55,7 @@
     "is-url": "^1.2.4",
     "jimp": "^0.16.1",
     "js-yaml": "^4.1.0",
-    "lint-staged": "^11.0.0",
+    "lint-staged": "^11.2.6",
     "make-color-accessible": "^1.2.0",
     "mocha": "^8.4.0",
     "node-fetch": "^2.6.1",
